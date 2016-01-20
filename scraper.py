@@ -7,6 +7,7 @@
 print 'hello world'
 urltoscrape="http://farmlandgrab.org/"
 print urltoscrape
+print 32
 # html = scraperwiki.scrape("http://foo.com")
 #
 # # Find something on the page using css selectors
